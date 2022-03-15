@@ -1,1 +1,5 @@
-# 2022w3
+# starter_folder
+
+This repo....
+
+It is organised as follows...
